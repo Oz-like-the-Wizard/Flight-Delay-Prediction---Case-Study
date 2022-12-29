@@ -5,4 +5,4 @@ This repository contains my take on Kaggle's flight delay prediction challange. 
 
 https://www.kaggle.com/competitions/flight-delays-prediction-challeng2
 
-The purpose is not to obtain the best possible prediction but rather to emphasize on the various steps needed to build such a model, following the data science pipeline.
+The purpose is not to obtain the best possible prediction but rather to emphasize on the various steps needed to build such a model in a limited time, following the data science pipeline.
